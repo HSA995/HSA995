@@ -86,9 +86,7 @@ Estudante de **Ciência da Computação** apaixonado por construir soluções ef
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=joaotanan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HSA995&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=joaotanan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HSA995&show_icons=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=HSA995&icon=0&color=0)](https://visitcount.itsvg.in)
