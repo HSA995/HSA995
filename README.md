@@ -47,28 +47,25 @@ Busco constantemente evoluir minhas habilidades por meio de estudos práticos e 
   <a href="https://www.linkedin.com/in/henrique-souto-9837373b5/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="Mailto:henriquesouto995@gmail.com">
+  <a href="mailto:henriquesouto995@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
 
-Estudante de **Ciência da Computação** apaixonado por construir soluções eficientes e seguras. Atualmente focado em evoluir minhas habilidades em desenvolvimento de software e análise de dados.
+#
+
+Estudante de **Ciência da Computação**, entusiasta de Back-end e IA, dedicado a construir soluções inteligentes, eficientes e com impacto real, especialmente na área da saúde.
 
 ### 🚀 Sobre mim:
 * 🎓 Cursando Bacharelado em Ciência da Computação (UCB).
-* 💻 Interessado em **Desenvolvimento Full Stack** (React & Node.js).
-* 🔐 Entusiasta de **Segurança da Informação** e Cyber Security.
-* 📊 Explorando o mundo da **Engenharia de Dados**.
+* 💻 Interessado em **Desenvolvimento Back-End**.
+* 🤖 Entusiasta de **Desenvolvimento com redes neurais** e IA.
+
 
 ### 🛠️ Tecnologias e Ferramentas:
-* **Front-end:** React, JavaScript (ES6+), HTML5, CSS3.
+* **Front-end:** JavaScript (ES6+), HTML5, CSS3.
 * **Back-end:** Node.js, Python, APIs REST.
 * **Ferramentas:** Git, GitHub, Linux.
-
-### 📈 No momento eu estou:
-* 🔭 Buscando minha primeira oportunidade de **Estágio em TI**.
-* ⚡ Estudando integração de APIs e boas práticas de UX/UI.
-* 🛡️ Praticando fundamentos de defesa cibernética.
 
 ---
 
@@ -78,15 +75,12 @@ Estudante de **Ciência da Computação** apaixonado por construir soluções ef
   <a href="https://www.linkedin.com/in/henrique-souto-9837373b5/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="Mailto:henriquesouto995@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <a href="mailto:henriquesouto995@gmail.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 
 #
 
 # 📊 GitHub Stats:
 
-
-
----
-[![](https://visitcount.itsvg.in/api?id=HSA995&icon=0&color=0)](https://visitcount.itsvg.in)
+[![GitHub Streak](https://streak-stats.demolab.com?user=HSA995&theme=dark&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
