@@ -1,85 +1,74 @@
-# Henrique Souto
+# 👨‍💻Henrique Souto
 
-**`Desenvolvedor Back-End`**
+`Sobre mim:`
 
-Sou estudante de Ciência da Computação (3º semestre) com foco em desenvolvimento de software e interesse em Inteligência Artificial aplicada à saúde. Tenho experiência com JavaScript, C, Java, além de HTML, CSS e banco de dados.
+Me chamo Henrique Souto, tenho 19 anos e sou estudante de Ciência da Computação (3º semestre) com foco em desenvolvimento de software e interesse em Inteligência Artificial aplicada à saúde. Tenho experiência com JavaScript, C, Java, além de HTML, CSS e banco de dados.
 
 Busco constantemente evoluir minhas habilidades por meio de estudos práticos e projetos, como o desenvolvimento de um protótipo de ventilador pulmonar, unindo tecnologia e impacto social.
 
+<div aling="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="7" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+</div>
+
+###
+
+<div aling="center">
+  <a href="https://www.linkedin.com/in/joão-guilherme-tanan-macêdo-de-medeiros-b99a733b9/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+</div>
+
+Estudante de **Ciência da Computação** apaixonado por construir soluções eficientes e seguras. Atualmente focado em evoluir minhas habilidades em desenvolvimento de software e análise de dados.
+
+### 🚀 Sobre mim:
+* 🎓 Cursando Bacharelado em Ciência da Computação (UCB).
+* 💻 Interessado em **Desenvolvimento Full Stack** (React & Node.js).
+* 🔐 Entusiasta de **Segurança da Informação** e Cyber Security.
+* 📊 Explorando o mundo da **Engenharia de Dados**.
+
+### 🛠️ Tecnologias e Ferramentas:
+* **Front-end:** React, JavaScript (ES6+), HTML5, CSS3.
+* **Back-end:** Node.js, Python, APIs REST.
+* **Ferramentas:** Git, GitHub, Linux.
+
+### 📈 No momento eu estou:
+* 🔭 Buscando minha primeira oportunidade de **Estágio em TI**.
+* ⚡ Estudando integração de APIs e boas práticas de UX/UI.
+* 🛡️ Praticando fundamentos de defesa cibernética.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 📫 Como me encontrar:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)<br>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=joaotanan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=joaotanan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=joaotanan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+---
+[![](https://visitcount.itsvg.in/api?id=joaotanan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=HSA995&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSA995&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
