@@ -73,8 +73,12 @@ Estudante de **Ciência da Computação**, entusiasta de Back-end e IA, dedicado
 
 <div aling="center">
   <a href="https://www.linkedin.com/in/henrique-souto-9837373b5/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  
+/>
+
 [![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henriquesouto995@gmail.com?subject=Contato%20pelo%20GitHub)
+
+
 #
 
 # 📊 GitHub Stats:
