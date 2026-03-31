@@ -44,7 +44,7 @@ Busco constantemente evoluir minhas habilidades por meio de estudos práticos e 
 ###
 
 <div aling="center">
-  <a href="www.linkedin.com/in/henrique-souto995" target="_blank">
+  <a href="www.linkedin.com/in/henrique-souto995/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="mailto:henriquesouto995@gmail.com">
@@ -72,7 +72,7 @@ Estudante de **Ciência da Computação**, entusiasta de Back-end e IA, dedicado
 ### 📫 Como me encontrar:
 
 <div aling="center">
-  <a href="www.linkedin.com/in/henrique-souto995" target="_blank">
+  <a href="www.linkedin.com/in/henrique-souto995/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  
 />
 
