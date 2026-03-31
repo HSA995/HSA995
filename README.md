@@ -74,10 +74,7 @@ Estudante de **Ciência da Computação**, entusiasta de Back-end e IA, dedicado
 <div aling="center">
   <a href="https://www.linkedin.com/in/henrique-souto-9837373b5/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-    <a href="mailto:henriquesouto995@gmail.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
+[![Email](https://img.shields.io/badge/Email-henriquesouto995%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henriquesouto995@gmail.com)
 
 #
 
