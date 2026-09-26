@@ -2,9 +2,7 @@
 
 `Sobre mim:`
 
-Me chamo Henrique Souto, tenho 19 anos e sou estudante de Ciência da Computação (3º semestre) com foco em desenvolvimento de software e interesse em Inteligência Artificial aplicada à saúde. Tenho experiência com JavaScript, C, Java, além de HTML, CSS e banco de dados.
-
-Busco constantemente evoluir minhas habilidades por meio de estudos práticos e projetos, como o desenvolvimento de um protótipo de ventilador pulmonar, unindo tecnologia e impacto social.
+Me chamo Henrique Souto, tenho 19 anos e sou estudante de Ciência da Computação (4º semestre) com foco em desenvolvimento de software e interesse em Inteligência Artificial. Tenho experiência com JavaScript, C, Java, além de HTML, CSS e banco de dados.
 
 <div aling="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
