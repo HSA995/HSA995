@@ -65,7 +65,7 @@ Estudante de **Ciência da Computação**, entusiasta de Back-end e IA, dedicado
 ### 🛠️ Tecnologias e Ferramentas:
 * **Front-end:** JavaScript (ES6+), HTML5, CSS3.
 * **Back-end:** Node.js, C, APIs REST.
-* **Ferramentas:** Git, GitHub, Linux.
+* **Ferramentas:** Git, GitHub, MacOS.
 
 ---
 
